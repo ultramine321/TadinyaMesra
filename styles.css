@@ -12,15 +12,15 @@ body {
 }
 
 header {
-    position: fixed;
-    top: 0;
-    left: 0;
-    width: 100%;
-    background-color: #003366;
-    color: white;
-    padding: 20px 0;
-    border-bottom: 4px solid #002244;
-    z-index: 1000; /* Pastikan z-index cukup tinggi agar header tetap di atas konten */
+position: fixed;
+top: 0;
+left: 0;
+width: 100%;
+background-color: #003366;
+color: white;
+padding: 20px 0;
+border-bottom: 4px solid #002244;
+z-index: 1000; /* Pastikan z-index cukup tinggi agar header tetap di atas konten */
 }
 
 
