@@ -16,10 +16,10 @@ header {
     top: 0;
     left: 0;
     width: 100%;
-    background-color: #102c49;
+    background-color: #003366;
     color: white;
     padding: 20px 0;
-    border-bottom: 4px solid #304962ea;
+    border-bottom: 4px solid #002244;
     z-index: 1000; /* Pastikan z-index cukup tinggi agar header tetap di atas konten */
 }
 
